@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @starksinc.
+- 👀 I’m interested in robot labor.
+- 🌱 I’m currently learning computer vision and neural networks.
